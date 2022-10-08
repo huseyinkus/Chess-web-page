@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(207, 238, 238);
+    margin: 10px;
+}
+
+
+
+
+.baslik {
+    width: 200px;
+    color:white;
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid burlywood;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 10px;
+    background-color:black;
+    
+}
+
+h2 {
+    color: darkmagenta;
+    font-size: 30px;
+    margin: 10px;
+    width: 200px;
+}
+
+p {
+    margin: 2px;
+}
+
+ul li {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+ol li {
+    padding: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: white;
+    background-color: aqua;
+}
+
+a {
+    width: 70px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: block;
+}
+
+img {
+    width: 200px;
+    float: left;
+}
+
+.tas {
+    border: 1px solid black;
+    overflow: auto;
+    padding: 10px;
+    background-color: wheat;
+    letter-spacing: 2px;
+    line-height: 150%;
+}
+
+
+i{
+    font-size: 100px;
+    float: right;
+}
+
+ul{
+    border: 2px solid black;
+    width: 200px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin-left: 20px;
+}
+
+.şahpuan{
+    background-color: red;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.menu{
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color:white;
+    border: none;
+    border-radius: 10px;
+    color: black;
+   
+}
+
+.menu:hover{
+    background-color: black;
+    color: white;
+}
